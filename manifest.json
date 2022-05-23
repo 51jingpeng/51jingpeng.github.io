@@ -1,0 +1,30 @@
+{
+  "_chunksMap": {
+    "umi": [
+      "//cdn.51jingpeng.com/website/umi.css",
+      "//cdn.51jingpeng.com/website/umi.js"
+    ]
+  },
+  "umi.css": "//cdn.51jingpeng.com/website/umi.css",
+  "umi.js": "//cdn.51jingpeng.com/website/umi.js",
+  ".DS_Store": "//cdn.51jingpeng.com/website/.DS_Store",
+  ".gitkeep": "//cdn.51jingpeng.com/website/.gitkeep",
+  "business/index.html": "//cdn.51jingpeng.com/website/business/index.html",
+  "case/:id/index.html": "//cdn.51jingpeng.com/website/case/:id/index.html",
+  "case/bjqc/index.html": "//cdn.51jingpeng.com/website/case/bjqc/index.html",
+  "case/dmtd/index.html": "//cdn.51jingpeng.com/website/case/dmtd/index.html",
+  "case/hzhy/index.html": "//cdn.51jingpeng.com/website/case/hzhy/index.html",
+  "case/index.html": "//cdn.51jingpeng.com/website/case/index.html",
+  "case/lh4sd/index.html": "//cdn.51jingpeng.com/website/case/lh4sd/index.html",
+  "case/sdjd/index.html": "//cdn.51jingpeng.com/website/case/sdjd/index.html",
+  "case/sfgj/index.html": "//cdn.51jingpeng.com/website/case/sfgj/index.html",
+  "case/xfzhzx/index.html": "//cdn.51jingpeng.com/website/case/xfzhzx/index.html",
+  "case/ybgz/index.html": "//cdn.51jingpeng.com/website/case/ybgz/index.html",
+  "case/zxyh/index.html": "//cdn.51jingpeng.com/website/case/zxyh/index.html",
+  "contact/index.html": "//cdn.51jingpeng.com/website/contact/index.html",
+  "hz/index.html": "//cdn.51jingpeng.com/website/hz/index.html",
+  "index.html": "//cdn.51jingpeng.com/website/index.html",
+  "jg/index.html": "//cdn.51jingpeng.com/website/jg/index.html",
+  "team/index.html": "//cdn.51jingpeng.com/website/team/index.html",
+  "zhaopin/index.html": "//cdn.51jingpeng.com/website/zhaopin/index.html"
+}
